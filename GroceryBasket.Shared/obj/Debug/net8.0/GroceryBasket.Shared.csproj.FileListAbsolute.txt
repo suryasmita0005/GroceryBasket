@@ -1,0 +1,11 @@
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\bin\Debug\net8.0\GroceryBasket.Shared.deps.json
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\bin\Debug\net8.0\GroceryBasket.Shared.dll
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\bin\Debug\net8.0\GroceryBasket.Shared.pdb
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.AssemblyInfoInputs.cache
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.AssemblyInfo.cs
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.csproj.CoreCompileInputs.cache
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.dll
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\refint\GroceryBasket.Shared.dll
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\GroceryBasket.Shared.pdb
+C:\Users\surya\Asteris Projects\MAUI App\GroceryBasket\GroceryBasket.Shared\obj\Debug\net8.0\ref\GroceryBasket.Shared.dll
