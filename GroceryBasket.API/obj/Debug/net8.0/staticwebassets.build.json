@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1LLVomRvcfOEi0SvXuR9/GaE8DdfcK5zZJroPfRqq3M=",
+  "Source": "GroceryBasket.API",
+  "BasePath": "_content/GroceryBasket.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
