@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryBasket", "GroceryBasket\GroceryBasket.csproj", "{1402B529-9F87-420B-AB45-31104BEA3B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryBasket.API", "GroceryBasket.API\GroceryBasket.API.csproj", "{868C61E0-7105-464C-A331-DA70D54A43A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryBasket.Shared", "GroceryBasket.Shared\GroceryBasket.Shared.csproj", "{BCCEBA18-BDC5-4782-8F12-F6202C5B11CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1402B529-9F87-420B-AB45-31104BEA3B0B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{868C61E0-7105-464C-A331-DA70D54A43A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868C61E0-7105-464C-A331-DA70D54A43A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868C61E0-7105-464C-A331-DA70D54A43A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868C61E0-7105-464C-A331-DA70D54A43A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCEBA18-BDC5-4782-8F12-F6202C5B11CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCEBA18-BDC5-4782-8F12-F6202C5B11CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCEBA18-BDC5-4782-8F12-F6202C5B11CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCEBA18-BDC5-4782-8F12-F6202C5B11CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
